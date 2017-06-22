@@ -1,0 +1,2 @@
+Customer name: test, Cust Address: sdfsd485 sdfsdf, 
+Address: sdfsd485 sdfsdf, Account Type:savings, Age: 62, Account Balance: 5250.0, Phone number: 123231, Account Number: 3333325033, 
